@@ -1,0 +1,31 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px;
+	padding: 9.4px;
+	background-color: violet;
+	//color: #d6d6d6;
+}
+input {
+	width: auto;
+	border-radius: 6px;
+	height: 40px;
+	padding: 8px;
+	border: none;
+	margin-bottom: 10px;
+}
+.result {
+	//width: 100%;
+	//padding-top: 10px;
+	//text-transform: full-width;
+	text-shadow: 1px 1px;
+	//font-family: Arial, Helvetica, sans-serif;
+}
+label {
+	padding-bottom: 40px;
+	color: black;
+	font-family: sans-serif;
+	font-size: 25px;
+}
+.into {
+	background-color: aqua;
+}
